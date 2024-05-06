@@ -6,3 +6,6 @@ n-gon generation in polar coords
 
 https://www.desmos.com/calculator/f0mf1o7dwm
 mandelbrot set
+
+https://www.desmos.com/calculator/abyn8nfegm
+solver for order 2 recurrence relations with kn term
