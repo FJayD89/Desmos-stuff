@@ -9,3 +9,6 @@ mandelbrot set
 
 https://www.desmos.com/calculator/abyn8nfegm
 solver for order 2 recurrence relations with kn term
+
+https://www.desmos.com/calculator/b0ecsskkz1
+worm
