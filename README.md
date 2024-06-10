@@ -12,3 +12,6 @@ solver for order 2 recurrence relations with kn term
 
 https://www.desmos.com/calculator/b0ecsskkz1
 worm
+
+https://www.desmos.com/calculator/bn86zvumxa
+stadium
