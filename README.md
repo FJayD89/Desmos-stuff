@@ -15,3 +15,7 @@ worm
 
 https://www.desmos.com/calculator/bn86zvumxa
 stadium
+
+https://www.desmos.com/calculator/dclxdtrdof
+Covering parabola
+
