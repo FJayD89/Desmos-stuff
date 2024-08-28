@@ -19,3 +19,6 @@ stadium
 https://www.desmos.com/calculator/dclxdtrdof
 Covering parabola
 
+[https://www.desmos.com/calculator/khldcekx1h](https://www.desmos.com/calculator/khldcekx1h)
+probability demonstration/visualisation
+
