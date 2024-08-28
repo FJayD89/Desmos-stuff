@@ -22,3 +22,5 @@ Covering parabola
 [https://www.desmos.com/calculator/khldcekx1h](https://www.desmos.com/calculator/khldcekx1h)
 probability demonstration/visualisation
 
+[https://www.desmos.com/calculator/0fm6ffccsr](https://www.desmos.com/calculator/0fm6ffccsr)
+cloud centre management visualisation
