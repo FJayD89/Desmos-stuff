@@ -27,3 +27,6 @@ more sim
 
 [https://www.desmos.com/calculator/0fm6ffccsr](https://www.desmos.com/calculator/0fm6ffccsr)
 cloud centre management visualisation
+
+[https://www.desmos.com/calculator/0rapukeyxo]
+Coulomb force visualisation
